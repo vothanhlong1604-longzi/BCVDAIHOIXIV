@@ -1,0 +1,12 @@
+# Node.js and dependencies
+node_modules/
+.npm/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Heavy reference documents (Do not upload 40MB of PDFs to GitHub)
+VĂN KIỆN ĐẠI HỘI XIV/
