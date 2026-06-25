@@ -108,7 +108,7 @@ class ContextRetriever {
     const cleanContextId = resolvedRef.contextId || `nq${resId}.intro`;
 
     // A. Direct Answer
-    let directAnswer = `Nghị quyết số <b>${resData.number}</b> của Ban Chấp hành Trung ương Đảng ban hành ngày ${resData.date || 'đang cập nhật'} tập trung vào chủ đề: <i>"${resData.title}"</i>. `;
+    let directAnswer = `Nghị quyết số <b>${resData.number}</b> của Bộ Chính trị ban hành ngày ${resData.date || 'đang cập nhật'} tập trung vào chủ đề: <i>"${resData.title}"</i>. `;
     if (resolvedRef.intent === 'GET_SOURCE') {
       directAnswer += `Căn cứ pháp lý và nguồn kiểm chứng chính thức của nội dung này trích từ văn bản gốc của Trung ương.`;
     } else if (resolvedRef.intent === 'EXPLAIN_DEEPER') {
