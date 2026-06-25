@@ -300,6 +300,7 @@
        .replace(/\bBlockchain\b/gi, 'Bờ lốc chain')
        .replace(/\bCloud\b/gi, 'Cờ lau')
               .replace(/\bWeb\b/gi, 'Goép')
+              .replace(/Nghị quyết số (\d+)-NQ\/TW/g, 'Nghị quyết số $1')
        .replace(/(\d+)-NQ\/TW/g, 'Nghị quyết số $1 của Trung ương')
        .replace(/\bNQ\/TW\b/g, 'Nghị quyết Trung ương')
        .replace(/\bNQ(\d+)\b/g, 'Nghị quyết số $1')
