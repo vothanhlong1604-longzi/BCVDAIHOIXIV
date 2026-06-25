@@ -913,7 +913,14 @@ if (!matchedPriority) {
     let scoreSumm = _queryMentionsSpecificRes ? 0 : scoreIntent(normText, 'SUMMARIZE_PARTY_LEADERSHIP', state);
 
     if (scoreQuote >= 0.55 || scoreSumm >= 0.55) {
-              { title: "Kiểm soát chặt chẽ quyền lực", content: "Kiên quyết đấu tranh phòng chống tham nhũng, lãng phí, tiêu cực và suy thoái tư tưởng chính trị." },
+                        matchedPriority = true;
+
+            const quoteText = "Tiếp tục đẩy mạnh xây dựng, chỉnh đốn Đảng trong sạch, vững mạnh toàn diện; nâng cao năng lực lãnh đạo, cầm quyền và sức chiến đấu của Đảng. Tăng cường xây dựng, chỉnh đốn, tự đổi mới để Đảng ta thật sự là đạo đức, là văn minh";
+            const points = [
+              { title: "Đẩy mạnh xây dựng chỉnh đốn Đảng", content: "Tiếp tục nâng cao chất lượng xây dựng Đảng về chính trị, tư tưởng, đạo đức và tổ chức." },
+              { title: "Xây dựng đội ngũ cán bộ chủ chốt", content: "Đào tạo đội ngũ lãnh đạo, quản lý và người đứng đầu có đủ phẩm chất, năng lực, uy tín, ngang tầm nhiệm vụ." },
+              { title: "Đổi mới phương thức lãnh đạo", content: "Nâng cao năng lực cầm quyền và hiệu quả tổ chức thực hiện các chủ trương, nghị quyết của Đảng." },
+             { title: "Kiểm soát chặt chẽ quyền lực", content: "Kiên quyết đấu tranh phòng chống tham nhũng, lãng phí, tiêu cực và suy thoái tư tưởng chính trị." },
               { title: "Bảo vệ nền tảng tư tưởng của Đảng", content: "Đấu tranh phản bác các quan điểm sai trái, thù địch, củng cố lòng tin của Nhân dân." }
             ];
 
