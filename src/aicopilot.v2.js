@@ -1885,7 +1885,7 @@ if (!matchedPriority) {
     if (!hasKnowledgeBase) {
       const warningEl = document.getElementById('ai-admin-warning');
       if (warningEl) {
-        warningEl.innerText = "Không tìm thấy nguồn tri thức "VĂN KIỆN ĐẠI HỘI XIV". Trợ lý đang hoạt động ở chế độ kịch bản có sẵn.";
+        warningEl.innerText = "Không tìm thấy nguồn tri thức \"VĂN KIỆN ĐẠI HỘI XIV\". Trợ lý đang hoạt động ở chế độ kịch bản có sẵn.";
         warningEl.style.display = 'block';
       }
     }
