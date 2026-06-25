@@ -1,0 +1,51 @@
+{
+  "dataset": "Nguồn dữ liệu Markdown về Văn kiện Đại hội XIV",
+  "encoding": "UTF-8",
+  "page_marker_format": "<!-- page: N -->",
+  "files": [
+    {
+      "file": "bao_cao_tong_ket_40_nam_doi_moi.md",
+      "source_pdf": "bao_cao_ly_luan_1770390640065_260207_090802.pdf",
+      "title": "Báo cáo tổng kết một số vấn đề lý luận và thực tiễn về công cuộc đổi mới theo định hướng xã hội chủ nghĩa trong 40 năm qua ở Việt Nam",
+      "pages": 127,
+      "characters": 355706,
+      "words": 77756,
+      "page_markers": 127,
+      "conversion_method": "text",
+      "sha256": "15ce8d49d824f47dac59c4c75f7b818c494f30f488f7e842487a4eaa51e0f0fc"
+    },
+    {
+      "file": "nghi_quyet_71_dot_pha_phat_trien_giao_duc_va_dao_tao.md",
+      "source_pdf": "NQ 71.pdf",
+      "title": "Nghị quyết số 71-NQ/TW của Bộ Chính trị về đột phá phát triển giáo dục và đào tạo",
+      "pages": 12,
+      "characters": 30119,
+      "words": 6540,
+      "page_markers": 12,
+      "conversion_method": "ocr",
+      "sha256": "0d2590664c4800b6d14f466a28dea911a278639404f72200c45d4632e0e38105"
+    },
+    {
+      "file": "phu_luc_5_cong_tac_xay_dung_dang_nhiem_ky_dai_hoi_XIV.md",
+      "source_pdf": "phu_luc_5_1770391058473_260207_090440.pdf",
+      "title": "Phụ lục 5: Tổng kết công tác xây dựng Đảng nhiệm kỳ Đại hội XIII và phương hướng, nhiệm vụ, giải pháp công tác xây dựng Đảng nhiệm kỳ Đại hội XIV",
+      "pages": 31,
+      "characters": 102485,
+      "words": 21878,
+      "page_markers": 31,
+      "conversion_method": "text",
+      "sha256": "03db3ce28870981bc852ec7848c04600d1127b14f222503eb82e3e02424b276c"
+    },
+    {
+      "file": "tai_lieu_hoi_dap_noi_dung_co_ban_van_kien_dai_hoi_XIV.md",
+      "source_pdf": "tai_lieu_hoi_dap_ve_noi_dung_cb_cua_cac_van_kien___260207_090400.pdf",
+      "title": "Tài liệu hỏi - đáp về nội dung cơ bản của Văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "pages": 272,
+      "characters": 357597,
+      "words": 77124,
+      "page_markers": 272,
+      "conversion_method": "legacy_decode",
+      "sha256": "7f5a8e09364ae3c143e5df5a062e0dd9cde2edc82a14d8621f6f05220df3d811"
+    }
+  ]
+}
