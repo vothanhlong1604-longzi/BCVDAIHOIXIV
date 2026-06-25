@@ -428,7 +428,7 @@ const RESOLUTIONS_DATA = [
     ],    number: "71-NQ/TW",
     title: "Đột phá phát triển giáo dục và đào tạo",
     shortTitle: "Đột phá Giáo dục & Đào tạo",
-    date: "2025",
+    date: "22/8/2025",
     theme: "Giáo dục",
     color: "#00897B",
     colorLight: "rgba(0, 137, 123, 0.12)",
