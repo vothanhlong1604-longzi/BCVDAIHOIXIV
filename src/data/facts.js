@@ -144,6 +144,59 @@ const CONGRESS_FACTS = {
       dangVien: "258.507 đảng viên bị kỷ luật (3 nhiệm kỳ)"
     },
     dinhHuongSuaDoi: "Giao BCH TW Đảng khoá XIV nghiên cứu, đề xuất sửa đổi Điều lệ Đảng trình Đại hội XV (2030)"
+  },
+
+  nghiQuyet71: {
+    source: "Nghị quyết 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị",
+    kyBoiThư: "Tổng Bí thư Tô Lâm",
+    chuDe: "Đột phá phát triển giáo dục và đào tạo",
+    nguonLuc: {
+      chiNgansach: "Tối thiểu 20% tổng chi NSNN cho giáo dục và đào tạo",
+      chiDauTu: "Ít nhất 5% tổng chi NSNN cho đầu tư giáo dục",
+      chiDaiHoc: "Ít nhất 3% tổng chi NSNN cho giáo dục đại học"
+    },
+    phuCapGiaoVien: {
+      mamNonPhoThong: "Tối thiểu 70% phụ cấp ưu đãi nghề cho giáo viên",
+      nhanVien: "Tối thiểu 30% phụ cấp cho nhân viên",
+      khoKhan: "100% phụ cấp cho giáo viên khu vực đặc biệt khó khăn, biên giới, hải đảo, vùng DTTS"
+    },
+    mucTieu2030: {
+      truongPhoDatChuan: "Ít nhất 80% trường phổ thông đạt chuẩn quốc gia",
+      hoanThanhTHPT: "Ít nhất 85% người trong độ tuổi hoàn thành cấp THPT và tương đương",
+      daiHocTopChauA: "Ít nhất 8 cơ sở GDĐH thuộc nhóm 200 đại học hàng đầu châu Á",
+      daiHocTopTheGioi: "Ít nhất 1 cơ sở GDĐH thuộc nhóm 100 đại học hàng đầu thế giới trong một số lĩnh vực",
+      tyLeSauTHPT: "50% người trong độ tuổi theo học sau THPT",
+      tyLeLaoDongDaiHoc: "24% lao động có trình độ cao đẳng, đại học trở lên",
+      giangVienNuocNgoai: "Tuyển dụng ít nhất 2.000 giảng viên giỏi từ nước ngoài",
+      tangCongBoKHQT: "Tăng bình quân 12%/năm số công bố khoa học quốc tế",
+      tangSangChe: "Tăng bình quân 16%/năm số đăng ký sáng chế"
+    },
+    mucTieu2035: {
+      daiHocTop100: "Ít nhất 2 cơ sở GDĐH thuộc nhóm 100 đại học hàng đầu thế giới",
+      hdi: "Chỉ số giáo dục đóng góp vào HDI đạt trên 0,85"
+    },
+    tamNhin2045: {
+      xepHang: "Đứng vào nhóm 20 quốc gia hàng đầu thế giới về giáo dục",
+      daiHocTop100: "Ít nhất 5 cơ sở GDĐH thuộc nhóm 100 đại học hàng đầu thế giới"
+    }
+  },
+
+  tongKet40NamDoiMoi: {
+    source: "Báo cáo tổng kết 40 năm đổi mới (1986–2026)",
+    batDau: "Đại hội VI năm 1986",
+    ketThuc: "Đại hội XIV năm 2026",
+    truocDoiMoi: {
+      gdpDauNguoi: "125–200 USD/năm (nhóm 20 nước nghèo nhất thế giới)",
+      lamPhat1986: "774,7% (tháng 12/1986)"
+    },
+    tăngTruong30Nam: "Trung bình gần 7%/năm (7 năm trên 8%, 2 năm trên 9%)",
+    xuatKhau1991_2016: "Tăng 60,38 lần so với năm 1991",
+    giaiDoan2016_2025: {
+      tangTrungBinh: "Khoảng 6,2%/năm",
+      gdp: "Trên 510 tỉ USD",
+      gdpDauNguoi: "Trên 5.000 USD/người"
+    },
+    vietKieuNuocNgoai: "6 triệu người tại 130 quốc gia và vùng lãnh thổ"
   }
 };
 
