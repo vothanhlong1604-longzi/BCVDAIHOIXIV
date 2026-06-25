@@ -299,7 +299,13 @@
        .replace(/\bBig Data\b/gi, 'Bích Đa ta')
        .replace(/\bBlockchain\b/gi, 'Bờ lốc chain')
        .replace(/\bCloud\b/gi, 'Cờ lau')
-       .replace(/\bWeb\b/gi, 'Goép');
+              .replace(/\bWeb\b/gi, 'Goép')
+       .replace(/(\d+)-NQ\/TW/g, 'Nghị quyết số $1 của Trung ương')
+       .replace(/\bNQ\/TW\b/g, 'Nghị quyết Trung ương')
+       .replace(/\bNQ(\d+)\b/g, 'Nghị quyết số $1')
+       .replace(/\bNQ\b/g, 'Nghị quyết')
+       .replace(/\bTW\b/g, 'Trung ương');
+   }
    }
  
    function speakDynamicText(text) {
@@ -1235,7 +1241,13 @@ if (!matchedPriority) {
        if (window.lastCitationText) {
           renderedHTML += `<div style="margin-top: 15px; font-size: 0.75rem; color: rgba(255,255,255,0.4); border-top: 1px dashed rgba(255,255,255,0.15); padding-top: 5px; text-align: right;">${window.lastCitationText}</div>`;
        }
-       typeWriterEffect(renderedHTML, 'apple-ai-text', 12);
+              textEl.style.opacity = '0';
+       textEl.style.transition = 'opacity 0.35s ease';
+       textEl.innerHTML = renderedHTML;
+       requestAnimationFrame(() => requestAnimationFrame(() => { textEl.style.opacity = '1'; }));
+    }
+
+    // Speak simultaneously with text display (no lag)
     }
     
     // Speak (exclude citation line from TTS)
@@ -1654,9 +1666,42 @@ if (!matchedPriority) {
             transition: all 0.2s;
             white-space: nowrap;
           }
-          .apple-ai-suggestion-chip:hover {
+                    .apple-ai-suggestion-chip:hover {
             background: rgba(255, 255, 255, 0.15) !important;
           }
+          /* Input centering */
+          .apple-ai-input-wrapper {
+            max-width: 660px;
+            margin: 0 auto;
+          }
+          /* Answer component spacing & highlighting */
+          .structured-ai-response { padding: 0; margin: 0; }
+          .structured-ai-response h4 { margin: 0 0 4px 0; font-size: 0.9rem; }
+          .ai-section-hdr {
+            font-weight: 700;
+            color: #fff;
+            font-size: 0.95rem;
+            margin: 8px 0 4px 0;
+            padding: 3px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.15);
+          }
+          .ai-direct-answer { margin: 0 0 8px 0; }
+          .ai-keypoints-section { margin: 0; padding: 0; list-style: none; }
+          .ai-kp-title {
+            font-weight: 700;
+            color: #ffd060;
+            font-size: 0.88rem;
+            display: inline;
+          }
+          .ai-keypoint-card {
+            margin: 4px 0;
+            padding: 4px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.07);
+          }
+          .ai-keypoint-card:last-child { border-bottom: none; }
+          .ai-app-card { margin: 4px 0; }
+          .ai-memory-message { font-style: italic; opacity: 0.7; margin: 4px 0; }
+          .ai-sources-section { font-size: 0.75rem; opacity: 0.45; margin-top: 8px; padding-top: 6px; border-top: 1px dashed rgba(255,255,255,0.12); }
         </style>
         <div class="apple-edge-glow"></div>
         <div class="apple-ai-content">
