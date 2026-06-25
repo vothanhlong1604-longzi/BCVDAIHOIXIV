@@ -5660,6 +5660,110 @@ const VANKIEN_DB = [
     synonyms: [“cập nhật điều lệ”, “điều chỉnh điều lệ”, “hoàn thiện”, “nghiên cứu sửa đổi”, “điều 7”, “chương iv”, “chương v”, “chương vii”],
     source: “Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng 2011–2025 (bao_cao_tong_ket_15_nam.md)”,
     content: “Theo <b>Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng</b>, định hướng sửa đổi được xác định:<br><br>• Giao <b>BCH TW Đảng khoá XIV</b> lãnh đạo nghiên cứu, tổng kết thực tiễn để đề xuất sửa đổi Điều lệ Đảng và Cương lĩnh Chính trị trình <b>Đại hội XV</b> vào dịp 100 năm thành lập Đảng (1930–2030).<br>• Đồng bộ với sửa đổi <b>Cương lĩnh chính trị</b> và <b>Hiến pháp năm 2013</b>.<br>• Các nội dung ưu tiên nghiên cứu sửa đổi: <b>Điều 7</b> (miễn sinh hoạt đảng); <b>Chương IV</b> (cơ quan lãnh đạo Đảng ở địa phương); <b>Chương V</b> (tổ chức cơ sở đảng); <b>Chương VII</b> (kiểm tra, giám sát); <b>Chương VIII</b> (thẩm quyền kỷ luật); <b>Chương IX</b> (Đảng lãnh đạo Nhà nước, Mặt trận Tổ quốc).<br>• Nguyên tắc: Điều lệ Đảng <b>không nên quy định quá chi tiết</b>; giữ vững tính nguyên tắc, hệ thống, đồng bộ.”
+  },
+
+  // ===== NGHỊ QUYẾT 71-NQ/TW VỀ GIÁO DỤC VÀ ĐÀO TẠO =====
+
+  {
+    topic: "Nghị quyết 71 — Tổng quan về đột phá phát triển giáo dục và đào tạo",
+    keywords: ["nghị quyết 71", "71-nq/tw", "giáo dục đào tạo", "quốc sách", "đột phá giáo dục", "bộ chính trị giáo dục"],
+    synonyms: ["nq 71", "giáo dục quốc sách", "phát triển giáo dục", "đổi mới giáo dục", "cải cách giáo dục", "học đi đôi với hành", "thầy ra thầy trò ra trò"],
+    source: "Nghị quyết 71-NQ/TW của Bộ Chính trị (nghi_quyet_71_dot_pha_phat_trien_giao_duc_va_dao_tao.md)",
+    content: "Theo <b>Nghị quyết số 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị</b> về đột phá phát triển giáo dục và đào tạo (ký bởi Tổng Bí thư Tô Lâm):<br><br><b>Quan điểm chỉ đạo:</b><br>• <b>Giáo dục và đào tạo là quốc sách hàng đầu</b>, quyết định tương lai dân tộc.<br>• Nhà nước giữ vai trò định hướng chiến lược, kiến tạo phát triển, bảo đảm nguồn lực và công bằng trong giáo dục.<br>• Phát triển giáo dục là sự nghiệp của Đảng, Nhà nước và của toàn dân.<br>• Người học là trung tâm; nhà trường là nền tảng; nhà giáo là động lực, quyết định chất lượng.<br>• Phương châm: <b>'thầy ra thầy, trò ra trò'</b> về đạo đức, nhân cách, tri thức.<br>• Đột phá phải bắt đầu từ đổi mới tư duy, nhận thức và thể chế."
+  },
+
+  {
+    topic: "Nghị quyết 71 — Mục tiêu giáo dục đến năm 2030",
+    keywords: ["mục tiêu giáo dục 2030", "trường phổ thông đạt chuẩn", "80% trường", "85% hoàn thành thpt", "đại học top 200", "8 trường top 200", "1 trường top 100"],
+    synonyms: ["chỉ tiêu giáo dục", "xếp hạng đại học", "top 200 châu á", "top 100 thế giới", "phổ cập giáo dục", "trường học đạt chuẩn", "cao đẳng đại học", "tỉ lệ lao động đại học"],
+    source: "Nghị quyết 71-NQ/TW của Bộ Chính trị (nghi_quyet_71_dot_pha_phat_trien_giao_duc_va_dao_tao.md)",
+    content: "Theo <b>Nghị quyết 71-NQ/TW</b>, mục tiêu giáo dục đến năm 2030:<br><br><b>Giáo dục phổ thông:</b><br>• Ít nhất <b>80% trường phổ thông đạt chuẩn quốc gia</b>.<br>• Ít nhất <b>85% người trong độ tuổi hoàn thành cấp THPT</b> và tương đương, không có tỉnh nào dưới 60%.<br>• Hoàn thành phổ cập giáo dục mầm non cho trẻ 3–5 tuổi và phổ cập THCS.<br>• Phấn đấu đến năm 2030: cung cấp <b>miễn phí sách giáo khoa</b> cho tất cả học sinh.<br><br><b>Giáo dục đại học:</b><br>• Phấn đấu ít nhất <b>8 cơ sở giáo dục đại học thuộc nhóm 200 đại học hàng đầu châu Á</b>.<br>• Ít nhất <b>1 cơ sở thuộc nhóm 100 đại học hàng đầu thế giới</b> trong một số lĩnh vực.<br>• Tỉ lệ người trong độ tuổi theo học sau THPT đạt <b>50%</b>.<br>• Tỉ lệ lao động có trình độ cao đẳng, đại học trở lên đạt <b>24%</b>.<br>• Tuyển dụng ít nhất <b>2.000 giảng viên giỏi từ nước ngoài</b>.<br>• Tăng bình quân <b>12%/năm</b> số công bố khoa học quốc tế; <b>16%/năm</b> số đăng ký sáng chế."
+  },
+
+  {
+    topic: "Nghị quyết 71 — Tầm nhìn giáo dục 2035 và 2045",
+    keywords: ["tầm nhìn giáo dục 2045", "top 20 giáo dục", "2 trường top 100", "5 trường top 100", "2035 giáo dục", "giáo dục hiện đại"],
+    synonyms: ["mục tiêu dài hạn giáo dục", "chiến lược giáo dục", "hệ thống giáo dục quốc dân", "hàng đầu thế giới giáo dục", "học tập suốt đời"],
+    source: "Nghị quyết 71-NQ/TW của Bộ Chính trị (nghi_quyet_71_dot_pha_phat_trien_giao_duc_va_dao_tao.md)",
+    content: "Theo <b>Nghị quyết 71-NQ/TW</b>:<br><br><b>Mục tiêu đến năm 2035:</b><br>• Hoàn thành phổ cập trung học phổ thông và tương đương.<br>• Phấn đấu ít nhất <b>2 cơ sở giáo dục đại học thuộc nhóm 100 đại học hàng đầu thế giới</b> trong một số lĩnh vực.<br>• Chỉ số giáo dục đóng góp vào HDI đạt trên <b>0,85</b>.<br><br><b>Tầm nhìn đến năm 2045:</b><br>• Việt Nam có hệ thống giáo dục quốc dân hiện đại, công bằng và chất lượng, <b>đứng vào nhóm 20 quốc gia hàng đầu thế giới</b>.<br>• Mọi người dân có cơ hội học tập suốt đời.<br>• Phấn đấu ít nhất <b>5 cơ sở giáo dục đại học thuộc nhóm 100 đại học hàng đầu thế giới</b>.<br>• Nguồn nhân lực chất lượng cao, nhân tài KH&CN là <b>động lực và lợi thế cạnh tranh cốt lõi</b> của đất nước."
+  },
+
+  {
+    topic: "Nghị quyết 71 — Ngân sách, tài chính giáo dục và phụ cấp nhà giáo",
+    keywords: ["ngân sách giáo dục", "20% nsnn", "chi giáo dục", "phụ cấp giáo viên", "70% phụ cấp", "tài chính giáo dục", "5% đầu tư giáo dục"],
+    synonyms: ["đầu tư giáo dục", "chính sách giáo viên", "lương giáo viên", "ưu đãi nhà giáo", "học phí", "chương trình mục tiêu quốc gia giáo dục", "quỹ học bổng quốc gia"],
+    source: "Nghị quyết 71-NQ/TW của Bộ Chính trị (nghi_quyet_71_dot_pha_phat_trien_giao_duc_va_dao_tao.md)",
+    content: "Theo <b>Nghị quyết 71-NQ/TW</b>, về tài chính và chính sách nhà giáo:<br><br><b>Ngân sách nhà nước cho giáo dục:</b><br>• Chi ngân sách cho GD&ĐT đạt tối thiểu <b>20% tổng chi ngân sách nhà nước</b>.<br>• Trong đó: chi <b>đầu tư</b> đạt ít nhất <b>5% tổng chi NSNN</b>; chi cho <b>giáo dục đại học</b> đạt ít nhất <b>3% tổng chi NSNN</b>.<br>• Xây dựng <b>Chương trình mục tiêu quốc gia</b> về hiện đại hoá, nâng cao chất lượng GD&ĐT giai đoạn 2026–2035.<br><br><b>Phụ cấp và chính sách nhà giáo:</b><br>• Nâng phụ cấp ưu đãi nghề đối với giáo viên mầm non, phổ thông lên tối thiểu <b>70% cho giáo viên</b>, tối thiểu <b>30% cho nhân viên</b>.<br>• <b>100% phụ cấp</b> cho giáo viên khu vực đặc biệt khó khăn, biên giới, hải đảo, vùng DTTS.<br>• Thành lập <b>Quỹ học bổng quốc gia</b> từ ngân sách và các nguồn hợp pháp.<br>• Không để học sinh, sinh viên nào bỏ học vì điều kiện tài chính."
+  },
+
+  // ===== BÁO CÁO TỔNG KẾT 40 NĂM ĐỔI MỚI =====
+
+  {
+    topic: "Báo cáo tổng kết 40 năm đổi mới — Tổng quan và cấu trúc",
+    keywords: ["40 năm đổi mới", "tổng kết đổi mới", "1986 2026", "đại hội vi", "đường lối đổi mới", "lý luận đổi mới"],
+    synonyms: ["công cuộc đổi mới", "40 năm", "từ năm 1986", "đại hội lần thứ vi", "bắt đầu đổi mới", "khởi xướng đổi mới", "lý luận thực tiễn đổi mới"],
+    source: "Báo cáo tổng kết 40 năm đổi mới (bao_cao_tong_ket_40_nam_doi_moi.md)",
+    content: "Theo <b>Báo cáo tổng kết một số vấn đề lý luận và thực tiễn về công cuộc đổi mới theo định hướng XHCN trong 40 năm qua ở Việt Nam</b>:<br><br>• Công cuộc đổi mới toàn diện bắt đầu từ <b>Đại hội VI (1986)</b> đến <b>Đại hội XIV (2026)</b> — vừa tròn <b>40 năm</b>.<br>• Theo chỉ đạo của Bộ Chính trị, báo cáo tập trung vào <b>8 nội dung</b> và được kết cấu thành <b>5 mục</b>:<br>  I. Bối cảnh thế giới, khu vực và trong nước<br>  II. Sự phát triển nhận thức lý luận của Đảng<br>  III. Những thành tựu và hạn chế trong xây dựng CNXH Việt Nam<br>  IV. Khái quát chung, vấn đề đặt ra và bài học kinh nghiệm<br>  V. Dự báo tình hình, đề xuất quan điểm, định hướng giải pháp<br>• Mục đích: bổ sung, hoàn thiện lý luận về đường lối đổi mới; chuẩn bị Văn kiện Đại hội XIV."
+  },
+
+  {
+    topic: "Báo cáo 40 năm đổi mới — Thành tựu kinh tế qua 4 giai đoạn",
+    keywords: ["thành tựu 40 năm", "tăng trưởng kinh tế 40 năm", "gdp 1986", "lạm phát 774", "thoát nghèo", "xuất khẩu tăng 60 lần", "thoát khủng hoảng"],
+    synonyms: ["kết quả đổi mới", "trước đổi mới", "sau đổi mới", "thu nhập đầu người 1986", "tăng trưởng trung bình", "7% năm", "kinh tế thị trường xhcn", "hội nhập wto asean"],
+    source: "Báo cáo tổng kết 40 năm đổi mới (bao_cao_tong_ket_40_nam_doi_moi.md)",
+    content: "Theo <b>Báo cáo tổng kết 40 năm đổi mới</b>, thành tựu kinh tế qua 4 giai đoạn:<br><br><b>Trước đổi mới (1975–1985):</b><br>• Thu nhập bình quân đầu người chỉ <b>125–200 USD/năm</b> — nhóm 20 nước nghèo nhất thế giới.<br>• Lạm phát tháng 12/1986 lên đến <b>774,7%</b>.<br><br><b>10 năm đầu (1986–1995):</b> Thoát khủng hoảng kinh tế - xã hội, bình thường hoá quan hệ Trung Quốc, Mỹ, gia nhập ASEAN.<br><br><b>10 năm tiếp theo (1996–2005):</b> Tích lũy nội bộ đạt <b>27% GDP</b>; kinh tế phục hồi sau khủng hoảng tài chính châu Á.<br><br><b>10 năm (2006–2015):</b> Trở thành nước thu nhập trung bình thấp. Gia nhập WTO (2007). Tốc độ tăng trưởng 30 năm đầu trung bình <b>gần 7%/năm</b> (7 năm trên 8%, 2 năm trên 9%). Xuất khẩu 1991–2016 tăng <b>60,38 lần</b>.<br><br><b>10 năm gần đây (2016–2025):</b> Tăng trưởng bình quân <b>6,2%/năm</b>. Quy mô kinh tế và thu nhập đầu người tăng gần gấp đôi — đạt tương ứng <b>trên 510 tỉ USD</b> và <b>trên 5.000 USD/người</b>."
+  },
+
+  {
+    topic: "Báo cáo 40 năm đổi mới — Bối cảnh quốc tế và trong nước",
+    keywords: ["bối cảnh quốc tế đổi mới", "liên xô sụp đổ", "chiến tranh lạnh kết thúc", "toàn cầu hoá", "cách mạng công nghiệp 4.0", "asean trung tâm"],
+    synonyms: ["tình hình thế giới", "môi trường quốc tế", "cạnh tranh chiến lược", "đa cực", "trật tự thế giới", "xu thế phát triển", "biến đổi khí hậu", "an ninh phi truyền thống"],
+    source: "Báo cáo tổng kết 40 năm đổi mới (bao_cao_tong_ket_40_nam_doi_moi.md)",
+    content: "Theo <b>Báo cáo tổng kết 40 năm đổi mới</b>, bối cảnh quốc tế và trong nước:<br><br><b>Bối cảnh quốc tế:</b><br>• Những năm 1980–1990: hệ thống CNXH ở Liên Xô và Đông Âu sụp đổ, Chiến tranh lạnh kết thúc.<br>• Thế giới chuyển sang cục diện <b>đa cực, đa trung tâm</b> với cạnh tranh chiến lược giữa các nước lớn ngày càng gay gắt.<br>• Cuộc Cách mạng công nghiệp lần thứ tư với <b>AI, dữ liệu lớn, công nghệ sinh học, công nghệ lượng tử</b> đang làm biến đổi tận gốc lực lượng sản xuất.<br>• Châu Á - Thái Bình Dương là trung tâm phát triển năng động; ASEAN giữ vai trò trung tâm.<br><br><b>Bối cảnh trong nước (nhiệm kỳ XIII):</b><br>• Thực hiện cuộc cách mạng về sắp xếp, tinh gọn tổ chức bộ máy; xây dựng chính quyền 3 cấp.<br>• Giữ vững độc lập, chủ quyền, toàn vẹn lãnh thổ; đối ngoại độc lập, tự chủ, đa dạng hoá, đa phương hoá.<br>• Cộng đồng người Việt Nam ở nước ngoài: <b>6 triệu người tại 130 quốc gia và vùng lãnh thổ</b>."
+  },
+
+  {
+    topic: "Báo cáo 40 năm đổi mới — 5 nội dung tổng kết và 8 vấn đề theo Bộ Chính trị",
+    keywords: ["8 nội dung đổi mới", "5 mục tổng kết", "lý luận cnxh", "kinh tế thị trường xhcn", "quốc phòng an ninh đối ngoại", "xây dựng đảng chỉnh đốn"],
+    synonyms: ["các vấn đề lý luận đổi mới", "nội dung tổng kết", "định hướng giải pháp mới", "mô hình cnxh việt nam", "văn hoá xã hội con người", "dự báo đề xuất"],
+    source: "Báo cáo tổng kết 40 năm đổi mới (bao_cao_tong_ket_40_nam_doi_moi.md)",
+    content: "Theo <b>Báo cáo tổng kết 40 năm đổi mới</b>, theo chỉ đạo của Bộ Chính trị, tổng kết tập trung vào <b>8 nội dung</b>:<br><br>(1) Bối cảnh thế giới, khu vực và trong nước qua 40 năm đổi mới.<br>(2) Những vấn đề về <b>CNXH và mô hình CNXH Việt Nam</b>.<br>(3) Phát triển <b>nền kinh tế thị trường định hướng XHCN</b>.<br>(4) Phát triển <b>văn hoá, quản lý phát triển xã hội</b> và xây dựng con người.<br>(5) Các vấn đề về <b>quốc phòng, an ninh, đối ngoại</b>.<br>(6) Các vấn đề <b>xây dựng, chỉnh đốn Đảng</b> và hệ thống chính trị trong sạch, vững mạnh.<br>(7) Đánh giá khái quát, vấn đề đặt ra và <b>bài học kinh nghiệm</b> qua 40 năm đổi mới.<br>(8) Dự báo tình hình mới, đề xuất quan điểm, <b>định hướng giải pháp</b> tiếp tục đẩy mạnh đổi mới."
+  },
+
+  // ===== PHỤ LỤC 5 — CÔNG TÁC XÂY DỰNG ĐẢNG =====
+
+  {
+    topic: "Phụ lục 5 — Kết quả công tác xây dựng Đảng nhiệm kỳ Đại hội XIII",
+    keywords: ["xây dựng đảng nhiệm kỳ xiii", "phụ lục 5", "10 nhiệm vụ xây dựng đảng", "43 luật", "735 nghị quyết", "175535 văn bản", "6 vùng kinh tế"],
+    synonyms: ["tổng kết xây dựng đảng", "chỉnh đốn đảng", "công tác đảng", "hệ thống chính trị", "bộ chính trị ban bí thư", "cấp ủy địa phương", "thể chế hóa nghị quyết"],
+    source: "Phụ lục 5 — Công tác xây dựng Đảng nhiệm kỳ Đại hội XIV (phu_luc_5_cong_tac_xay_dung_dang_nhiem_ky_dai_hoi_XIV.md)",
+    content: "Theo <b>Phụ lục 5 — Tổng kết công tác xây dựng Đảng nhiệm kỳ Đại hội XIII</b>:<br><br><b>Kết quả thể chế hoá Nghị quyết Đại hội XIII:</b><br>• Đảng đoàn Quốc hội, Ban cán sự đảng Chính phủ thể chế hoá thành: <b>43 luật, 735 nghị quyết, 4 pháp lệnh, 402 nghị định</b> (từ 8/2021 đến 8/2024).<br>• Cấp uỷ cấp tỉnh cụ thể hoá thành <b>175.535 văn bản</b> (tính đến tháng 6/2024).<br><br><b>Kết quả ban hành nghị quyết chiến lược:</b><br>• Lần đầu tiên Bộ Chính trị ban hành nghị quyết phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh cho <b>6 vùng</b> (Trung du miền núi Bắc Bộ; Đồng bằng sông Hồng; Bắc Trung Bộ và duyên hải miền Trung; Tây Nguyên; Đông Nam Bộ; Đồng bằng sông Cửu Long) đến năm 2030, tầm nhìn đến năm 2045.<br><br>• Công tác xây dựng Đảng được đặt đúng vị trí <b>'then chốt'</b>, triển khai quyết liệt, toàn diện, đồng bộ cả 'xây' và 'chống'."
+  },
+
+  {
+    topic: "Phụ lục 5 — Phòng chống tham nhũng và kỷ luật cán bộ nhiệm kỳ XIII",
+    keywords: ["phòng chống tham nhũng nhiệm kỳ xiii", "kỷ luật cán bộ", "ủy viên trung ương bị kỷ luật", "đốt lò", "lò nóng", "tham nhũng tiêu cực", "tướng bị xử lý"],
+    synonyms: ["pctn", "chống tham nhũng", "chống lãng phí", "chống tiêu cực", "xây dựng chỉnh đốn đảng", "cán bộ diện trung ương", "thu hồi tài sản", "đại án"],
+    source: "Phụ lục 5 — Công tác xây dựng Đảng nhiệm kỳ Đại hội XIV (phu_luc_5_cong_tac_xay_dung_dang_nhiem_ky_dai_hoi_XIV.md)",
+    content: "Theo <b>Phụ lục 5</b>, công tác phòng chống tham nhũng, tiêu cực nhiệm kỳ Đại hội XIII:<br><br>• Công tác phòng, chống tham nhũng, lãng phí, tiêu cực tiếp tục được đẩy mạnh quyết liệt với nhiều <b>kết quả đột phá</b>; được nhân dân đồng tình, ủng hộ và quốc tế ghi nhận.<br>• Xử lý nghiêm nhiều cán bộ cấp cao, trong đó có <b>Uỷ viên Bộ Chính trị, Ban Bí thư, Uỷ viên Trung ương Đảng</b>.<br>• Khẳng định nguyên tắc: <b>'không có vùng cấm, không có ngoại lệ'</b> trong xử lý vi phạm.<br>• Công tác thu hồi tài sản tham nhũng được tăng cường; nhiều vụ đại án kinh tế được đưa ra xét xử.<br>• Kết hợp chặt chẽ giữa phòng và chống; không để công tác chống tham nhũng làm chùn bước cán bộ dám nghĩ, dám làm, dám chịu trách nhiệm.<br>• Gắn PCTN với <b>chống lãng phí</b> (Tổng Bí thư Tô Lâm nhấn mạnh trong bài viết 'Chống lãng phí')."
+  },
+
+  // ===== TÀI LIỆU HỎI-ĐÁP VĂN KIỆN ĐẠI HỘI XIV =====
+
+  {
+    topic: "Tài liệu hỏi-đáp — Ý nghĩa lịch sử và vai trò của Đại hội XIV",
+    keywords: ["ý nghĩa đại hội xiv", "vai trò lịch sử đại hội", "tại sao đại hội xiv quan trọng", "bản lề phát triển", "kỷ nguyên mới", "bứt phá phát triển"],
+    synonyms: ["ý nghĩa đại hội 14", "tầm quan trọng đại hội xiv", "đại hội bản lề", "vì sao đại hội xiv", "đột phá chiến lược đại hội xiv", "hỏi đáp văn kiện đại hội"],
+    source: "Tài liệu hỏi-đáp nội dung cơ bản Văn kiện Đại hội XIV (tai_lieu_hoi_dap_noi_dung_co_ban_van_kien_dai_hoi_XIV.md)",
+    content: "Theo <b>Tài liệu hỏi-đáp về Văn kiện Đại hội XIV</b> (Ban Tuyên giáo và Dân vận TW, Hội đồng Lý luận TW biên soạn):<br><br><b>Ý nghĩa đặc biệt quan trọng của Đại hội XIV:</b><br>1. Đánh dấu bước chuyển từ '<b>tạo nền tảng phát triển</b>' sang '<b>bứt phá phát triển</b>' trong kỷ nguyên mới.<br>2. Diễn ra trong bối cảnh quốc tế biến động nhanh — cuộc CMCN 4.0 với AI, dữ liệu lớn tái định hình toàn cầu.<br>3. Tháo gỡ các điểm nghẽn trong nước, khơi thông nguồn lực phát triển.<br><br><b>6 vai trò lịch sử của Đại hội XIV:</b><br>• Định hướng chiến lược dài hạn (2030 và 2045).<br>• Phát triển lý luận, hoàn thiện đường lối đổi mới.<br>• Tạo đột phá về thể chế phát triển.<br>• Lấy <b>KH&CN, ĐMST và chuyển đổi số</b> là động lực chính tăng trưởng.<br>• Bảo đảm phát triển con người, tiến bộ và công bằng xã hội.<br>• Tăng cường xây dựng, chỉnh đốn Đảng và hệ thống chính trị."
+  },
+
+  {
+    topic: "Tài liệu hỏi-đáp — Bối cảnh quốc tế và trong nước tại thời điểm Đại hội XIV",
+    keywords: ["bối cảnh đại hội xiv", "tình hình thế giới 2026", "thách thức đất nước", "bẫy thu nhập trung bình", "bối cảnh trong nước đại hội xiv"],
+    synonyms: ["tình hình quốc tế đại hội xiv", "thách thức phát triển", "nguy cơ tụt hậu", "cơ hội và thách thức", "bối cảnh đại hội 14", "các yếu tố khó dự báo"],
+    source: "Tài liệu hỏi-đáp nội dung cơ bản Văn kiện Đại hội XIV (tai_lieu_hoi_dap_noi_dung_co_ban_van_kien_dai_hoi_XIV.md)",
+    content: "Theo <b>Tài liệu hỏi-đáp Văn kiện Đại hội XIV</b>, bối cảnh Đại hội gồm:<br><br><b>Bối cảnh quốc tế:</b><br>• Cục diện thế giới chuyển sang <b>đa cực, đa trung tâm, phân mảnh</b>; cạnh tranh chiến lược giữa các nước lớn gay gắt trên nhiều lĩnh vực mới (công nghệ, AI, chuỗi cung ứng).<br>• Biển Đông tiếp tục là điểm nóng tiềm ẩn nguy cơ; ASEAN đứng trước yêu cầu củng cố đoàn kết.<br>• AI và công nghệ số vừa mở ra cơ hội đột phá, vừa tiềm ẩn <b>nguy cơ tụt hậu nhanh</b> nếu không nắm bắt kịp thời.<br><br><b>Bối cảnh trong nước:</b><br>• Sau 40 năm đổi mới, nền kinh tế gia nhập nhóm <b>nước thu nhập trung bình cao</b>.<br>• Thách thức: <b>nguy cơ bẫy thu nhập trung bình</b>, già hoá dân số nhanh, biến đổi khí hậu, phân hoá giàu nghèo.<br>• Mô hình tăng trưởng dựa vào vốn, lao động giá rẻ và khai thác tài nguyên đã bộc lộ giới hạn.<br>• Đại hội XIV là 'bản lề' để lựa chọn <b>mô hình phát triển mới</b>, xác lập động lực và giải pháp đột phá."
   }
 ];
 
