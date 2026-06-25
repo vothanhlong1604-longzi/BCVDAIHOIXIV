@@ -306,7 +306,6 @@
        .replace(/\bNQ\b/g, 'Nghị quyết')
        .replace(/\bTW\b/g, 'Trung ương');
    }
-   }
  
    function speakDynamicText(text) {
      synth.cancel();
@@ -1248,9 +1247,6 @@ if (!matchedPriority) {
     }
 
     // Speak simultaneously with text display (no lag)
-    }
-    
-    // Speak (exclude citation line from TTS)
     if (window.isMindmapIntent && playVideoAvatar('bản đồ tri thức', finalAnswerText, null)) {
        // handled by video avatar
     } else {
