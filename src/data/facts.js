@@ -72,7 +72,79 @@ const CONGRESS_FACTS = {
       title: "Xây dựng và phát triển văn hóa, con người Việt Nam đáp ứng yêu cầu phát triển bền vững",
       summary: "Chấn hưng văn hóa nước nhà, khơi dậy khát vọng phát triển, tinh thần yêu nước, đoàn kết và phát huy giá trị con người Việt Nam."
     }
-  ]
+  ],
+
+  baoCaoChinhTri: {
+    source: "Báo cáo chính trị của BCH TW Đảng khoá XIII tại Đại hội XIV",
+    chuDe: "Dưới lá cờ vẻ vang của Đảng, chung sức, đồng lòng thực hiện thắng lợi các mục tiêu phát triển đất nước đến năm 2030",
+    phuongCham: "Đoàn kết - Dân chủ - Kỷ cương - Đột phá - Phát triển",
+    kinhTe2025: {
+      gdp: "Trên 514 tỉ USD",
+      gdpRank: "Thứ 32 thế giới",
+      gdpGrowth: "Gấp 1,48 lần so với năm 2020",
+      gdpPerCapita: "5.026 USD",
+      tangtruong2025: "8,02%",
+      tangtruongBinhQuan2021_2025: "Khoảng 6,2%/năm",
+      tfp: "Khoảng 47%",
+      doThiHoa: "45%"
+    },
+    xaHoi2025: {
+      hdi: "0,766 điểm (tăng 14 bậc)",
+      hdiGroup: "Nhóm nước phát triển con người cao",
+      hanhPhuc: "Thứ 46/143 quốc gia (tăng 33 bậc so với 2021)",
+      bhyt: "95,2%",
+      tuoiTho: "74,8 năm",
+      hoDaNgheo: "1,3% (giảm từ 4,2% năm 2022)"
+    },
+    mucTieu2030: {
+      mucTieu: "Trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao",
+      tang_truong_gdp: "Từ 10%/năm trở lên",
+      gdp_dau_nguoi: "Khoảng 8.500 USD",
+      kinh_te_so: "Khoảng 30% GDP",
+      tfp: "Trên 55%",
+      nang_suat_lao_dong: "Khoảng 8,5%/năm",
+      do_thi_hoa: "Trên 50%",
+      hdi: "Khoảng 0,8",
+      hanh_phuc: "Top 40 quốc gia hạnh phúc nhất",
+      phat_thai_ron_net_zero: "Bằng 0 vào năm 2050"
+    },
+    mucTieu2045: "Trở thành nước phát triển, thu nhập cao theo định hướng xã hội chủ nghĩa",
+    cachMangBoMay: {
+      giamDauMoiTW: "34,9%",
+      giamTinh: "46%",
+      giamXa: "66,9%",
+      moHinh: "Lần đầu tiên kể từ 1945 không tổ chức cấp huyện; chính quyền địa phương 2 cấp (Tỉnh và Xã)"
+    },
+    dotPhaChienLuoc: [
+      "Đột phá về thể chế phát triển — hoàn thiện đồng bộ thể chế; thúc đẩy đổi mới sáng tạo",
+      "Đột phá về nguồn nhân lực — chất lượng cao, thu hút nhân tài, bảo vệ cán bộ dám làm",
+      "Đột phá về kết cấu hạ tầng — giao thông đa phương thức, hạ tầng số, hạ tầng xanh"
+    ],
+    nhiemVuTrongTam: [
+      "Xây dựng đồng bộ thể chế phát triển, tháo gỡ nút thắt, điểm nghẽn",
+      "Đẩy mạnh xây dựng, chỉnh đốn Đảng và hệ thống chính trị",
+      "Phát triển nền kinh tế thị trường định hướng XHCN; lấy khoa học, công nghệ làm động lực",
+      "Triển khai đột phá khoa học, công nghệ, đổi mới sáng tạo — ưu tiên chip bán dẫn, AI",
+      "Phát triển nguồn lực con người, văn hoá; bảo đảm an sinh, an ninh, an toàn",
+      "Xây dựng Quân đội, Công an cách mạng, chính quy, tinh nhuệ, hiện đại"
+    ]
+  },
+
+  dieuleDang: {
+    source: "Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng (2011–2025)",
+    tongSoDangVien: "5.622.463 (tính đến 31/8/2025)",
+    ketNap3NhiemKy: "2.673.566 đảng viên (nhiệm kỳ XI, XII, XIII)",
+    tyLeNu: "45,79% trong số đảng viên mới kết nạp",
+    tyLeDoanVien: "81,65% đảng viên mới kết nạp là đoàn viên",
+    toChucCoSo: "50.090 đảng bộ, chi bộ cơ sở (31/8/2025)",
+    chiBoTrucThuoc: "210.627 chi bộ trực thuộc",
+    vanBanCuTheHoa: "183.353 văn bản (từ 2016 đến tháng 6/2024)",
+    kyLuat: {
+      toChucDang: "4.999 tổ chức đảng bị kỷ luật (3 nhiệm kỳ)",
+      dangVien: "258.507 đảng viên bị kỷ luật (3 nhiệm kỳ)"
+    },
+    dinhHuongSuaDoi: "Giao BCH TW Đảng khoá XIV nghiên cứu, đề xuất sửa đổi Điều lệ Đảng trình Đại hội XV (2030)"
+  }
 };
 
 // Export to window object for global availability in client browser

@@ -5523,7 +5523,143 @@ const VANKIEN_DB = [
     keywords: ["Đại hội XIV", "xây dựng Đảng", "chính trị", "xã hội", "Nghị quyết", "chiến lược", "Chuyên", "Kiểm", "Trung", "ương", "Trang"],
     synonyms: ["dai hoi xiv", "dai hoi 14", "dai hoi muoi bon", "xay dung dang", "chinh don dang", "chinh don", "tu soi", "tu sua", "chinh tri", "xa hoi", "nghi quyet", "chien luoc"],
     source: "cd_10_chuyen_de_cua_ubkttw.pdf",
-    content: "8 vận, chính sách chiến lược, nội chính trong công tác kiểm tra, giám sát việc triển khai thực hiện các Nghị quyết của Đảng ngay từ khi mới ban hành góp phần xây dựng Đảng, hệ thống chính trị trong sạch, vững mạnh. - Rà soát, xây dựng cơ chế phối hợp giữa cơ quan ủy ban kiểm tra các cấp với các cơ quan thanh tra, kiểm toán, viện kiểm sát, tòa án và thi hành án dân sự và các cơ quan có liên quan trong phòng, chống tham nhũng, lãng phí, tiêu cực nhất là tại cấp ủy cơ sở. - Phối hợp trong công tác giám sát, phản biện của Mặt trận tổ quốc, các tổ chức chính trị xã hội và Nhân dân. Kính thưa Hội nghị Ủy ban kiểm tra Trung ương và toàn Ngành Kiểm tra Đảng sẽ bám sát vào Nghị quyết của Đại hội XIV, thể chế hóa thành Chương trình hành động, kế hoạch để công tác kiểm tra, giám sát, kỷ luật đảng tiếp tục được thực hiện có chất lượng, hiệu quả, xứng đáng là “thanh bảo kiếm của Đảng”. Cuối cùng, xin k ính chúc các đồng chí đại biểu dự hội nghị mạnh khỏe, hạnh phúc và thành công. Xin trân trọng cảm ơn."
+    content: “8 vận, chính sách chiến lược, nội chính trong công tác kiểm tra, giám sát việc triển khai thực hiện các Nghị quyết của Đảng ngay từ khi mới ban hành góp phần xây dựng Đảng, hệ thống chính trị trong sạch, vững mạnh. - Rà soát, xây dựng cơ chế phối hợp giữa cơ quan ủy ban kiểm tra các cấp với các cơ quan thanh tra, kiểm toán, viện kiểm sát, tòa án và thi hành án dân sự và các cơ quan có liên quan trong phòng, chống tham nhũng, lãng phí, tiêu cực nhất là tại cấp ủy cơ sở. - Phối hợp trong công tác giám sát, phản biện của Mặt trận tổ quốc, các tổ chức chính trị xã hội và Nhân dân. Kính thưa Hội nghị Ủy ban kiểm tra Trung ương và toàn Ngành Kiểm tra Đảng sẽ bám sát vào Nghị quyết của Đại hội XIV, thể chế hóa thành Chương trình hành động, kế hoạch để công tác kiểm tra, giám sát, kỷ luật đảng tiếp tục được thực hiện có chất lượng, hiệu quả, xứng đáng là \”thanh bảo kiếm của Đảng\”. Cuối cùng, xin k ính chúc các đồng chí đại biểu dự hội nghị mạnh khỏe, hạnh phúc và thành công. Xin trân trọng cảm ơn.”
+  },
+
+  // ============================================================
+  // BÁO CÁO CHÍNH TRỊ ĐẠI HỘI XIV — Văn kiện gốc
+  // ============================================================
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Kết quả kinh tế và GDP năm 2025”,
+    keywords: [“gdp”, “514 tỉ”, “tăng trưởng”, “8,02”, “kinh tế”, “thứ 32”, “5026 usd”, “thu nhập trung bình”],
+    synonyms: [“quy mô gdp”, “thu nhập đầu người”, “gdp bình quân”, “tăng trưởng kinh tế”, “kinh tế vĩ mô”, “lạm phát”, “đầu tư”, “thặng dư thương mại”, “gấp 1,48 lần”, “tầm cao mới”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, kết quả kinh tế giai đoạn 2021–2025 đạt những thành tựu nổi bật:<br><br>• <b>Tăng trưởng GDP bình quân 2021–2025:</b> Khoảng <b>6,2%/năm</b>; riêng năm 2025 đạt <b>8,02%</b>, thuộc nhóm cao nhất khu vực và thế giới.<br>• <b>Quy mô GDP năm 2025:</b> Trên <b>514 tỉ USD</b> (gấp 1,48 lần so với năm 2020), xếp <b>thứ 32 thế giới</b>.<br>• <b>GDP bình quân đầu người:</b> Đạt <b>5.026 USD</b>, chính thức gia nhập nhóm nước thu nhập trung bình cao.<br>• <b>Chất lượng tăng trưởng:</b> Đóng góp của nhân tố tổng hợp (TFP) đạt khoảng <b>47%</b>.<br>• Kinh tế vĩ mô ổn định; lạm phát, bội chi ngân sách, nợ công được kiểm soát; thặng dư thương mại ở mức cao.<br>• Phát triển kinh tế tư nhân được khẳng định là <b>một động lực quan trọng nhất</b> của nền kinh tế (từ năm 2025).<br>• <b>Tỉ lệ đô thị hoá năm 2025:</b> Đạt <b>45%</b>.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Chỉ tiêu phát triển 5 năm 2026–2030”,
+    keywords: [“chỉ tiêu”, “2026”, “2030”, “10%”, “8500 usd”, “kinh tế số”, “tfp 55%”, “nang suat lao dong”, “do thi hoa”],
+    synonyms: [“kế hoạch 5 năm”, “mục tiêu phát triển”, “tốc độ tăng trưởng”, “tăng trưởng 10”, “chỉ tiêu kinh tế”, “chỉ tiêu xã hội”, “hdi 0,8”, “hạnh phúc”, “phát thải ròng”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, các chỉ tiêu chủ yếu giai đoạn <b>2026–2030</b> gồm:<br><br><b>Kinh tế:</b><br>• Tốc độ tăng trưởng GDP bình quân: <b>Từ 10%/năm trở lên</b>.<br>• GDP bình quân đầu người đến 2030: khoảng <b>8.500 USD</b>.<br>• Tỉ trọng kinh tế số: khoảng <b>30% GDP</b>.<br>• Đóng góp TFP: trên <b>55%</b>.<br>• Tốc độ tăng năng suất lao động: khoảng <b>8,5%/năm</b>.<br>• Tỉ lệ đô thị hoá: trên <b>50%</b>.<br>• Tổng vốn đầu tư toàn xã hội: khoảng <b>40% GDP</b>.<br><br><b>Xã hội:</b><br>• Chỉ số phát triển con người (HDI): khoảng <b>0,8</b>.<br>• Tuổi thọ trung bình: khoảng <b>75,5 tuổi</b>.<br>• Phấn đấu thuộc nhóm <b>40 quốc gia hạnh phúc nhất</b> thế giới.<br><br><b>Môi trường:</b><br>• Tỉ lệ che phủ rừng: duy trì <b>42%</b>.<br>• Hướng tới phát thải ròng bằng <b>0</b> vào năm 2050.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Mục tiêu tổng quát năm 2030 và 2045”,
+    keywords: [“mục tiêu”, “2030”, “2045”, “thu nhập trung bình cao”, “nước phát triển”, “100 năm thành lập đảng”, “kỷ nguyên”],
+    synonyms: [“tầm nhìn”, “100 năm thành lập nước”, “phồn vinh”, “hùng cường”, “văn minh”, “hạnh phúc”, “vươn mình”, “thịnh vượng”, “độc lập dân tộc”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, mục tiêu tổng quát phát triển đất nước được xác định rõ ràng:<br><br>• <b>Đến năm 2030</b> (kỷ niệm 100 năm thành lập Đảng 1930–2030): Trở thành <b>nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao</b>.<br>• <b>Đến năm 2045</b> (kỷ niệm 100 năm thành lập nước 1945–2045): Trở thành <b>nước phát triển, thu nhập cao</b> theo định hướng xã hội chủ nghĩa, sánh vai với các cường quốc năm châu.<br><br>Văn kiện khẳng định: <i>\”Đất nước ta đã thực sự bước vào kỷ nguyên mới — kỷ nguyên vươn mình của dân tộc, vì một nước Việt Nam hoà bình, độc lập, dân chủ, giàu mạnh, phồn vinh, văn minh, hạnh phúc, vững bước đi lên chủ nghĩa xã hội.\”</i>”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Cách mạng sắp xếp tổ chức bộ máy hệ thống chính trị”,
+    keywords: [“sắp xếp”, “bộ máy”, “cấp huyện”, “2 cấp”, “tinh gọn”, “66,9%”, “46%”, “34,9%”, “chính quyền địa phương”],
+    synonyms: [“tinh giản bộ máy”, “hành chính”, “cải cách”, “xã phường”, “tỉnh thành”, “trực thuộc trung ương”, “đơn vị hành chính”, “khoán 18”, “nghị quyết 18”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, cuộc <b>cách mạng sắp xếp tổ chức bộ máy hệ thống chính trị</b> từ tháng 10/2024 đạt kết quả đột phá:<br><br>• Giảm <b>34,9%</b> đầu mối trực thuộc Trung ương.<br>• Giảm <b>46%</b> đơn vị hành chính cấp tỉnh.<br>• Giảm <b>66,9%</b> đơn vị hành chính cấp xã.<br>• <b>Lần đầu tiên kể từ năm 1945</b>: không tổ chức cấp huyện; thực hiện chính quyền địa phương <b>2 cấp</b> (Trung ương → Tỉnh → Xã).<br>• Hoàn thành vượt mức trước 5 năm các mục tiêu Nghị quyết 18-NQ/TW đề ra đến năm 2030.<br>• Lần đầu hoàn thành bố trí <b>100% bí thư tỉnh uỷ, chủ tịch UBND tỉnh, chủ nhiệm UBKT</b> cấp tỉnh, cấp xã không phải là người địa phương.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Xây dựng Đảng, phòng chống tham nhũng lãng phí tiêu cực”,
+    keywords: [“xây dựng đảng”, “tham nhũng”, “lãng phí”, “tiêu cực”, “không vùng cấm”, “liêm chính”, “chỉnh đốn đảng”],
+    synonyms: [“phòng chống tham nhũng”, “kỷ luật cán bộ”, “đạo đức cách mạng”, “trong sạch vững mạnh”, “kiểm soát quyền lực”, “đảng lãnh đạo”, “suy thoái”, “tự diễn biến”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, công tác xây dựng, chỉnh đốn Đảng và phòng, chống tham nhũng đạt nhiều kết quả đột phá:<br><br>• Công tác PCTN, lãng phí, tiêu cực <b>đạt bước tiến mạnh, đột phá lớn</b>, không có vùng cấm, không có ngoại lệ.<br>• Xây dựng cơ chế <b>\”không thể\”, \”không dám\”, \”không muốn\”, \”không cần\”</b> tham nhũng.<br>• Đánh giá cán bộ xuyên suốt, liên tục; thực hiện chủ trương <b>\”có vào có ra\”</b>, <b>\”có lên có xuống\”</b>.<br>• Bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm.<br>• Tổng kết <b>100 năm Đảng lãnh đạo (1930–2030)</b>, định hướng 100 năm tiếp theo (2030–2130).<br>• Mục tiêu: Đảng ta thật sự <b>là đạo đức, là văn minh</b>; xây dựng quốc gia liêm chính, xã hội liêm chính.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Đột phá khoa học công nghệ, chuyển đổi số, đổi mới sáng tạo”,
+    keywords: [“khoa học công nghệ”, “chuyển đổi số”, “AI”, “chip bán dẫn”, “đổi mới sáng tạo”, “kinh tế số”, “kinh tế xanh”],
+    synonyms: [“trí tuệ nhân tạo”, “điện toán”, “lượng tử”, “vũ trụ”, “năng lượng nguyên tử”, “dữ liệu số”, “startup”, “khởi nghiệp”, “công nghệ cao”, “r&d”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, đột phá phát triển khoa học, công nghệ được xác định là <b>đột phá chiến lược hàng đầu</b>:<br><br>• Ưu tiên tiếp thu, chuyển giao: <b>chip bán dẫn, trí tuệ nhân tạo (AI), công nghệ hạt nhân, không gian vũ trụ, công nghệ lượng tử</b>.<br>• Cơ chế đột phá thúc đẩy <b>chuyển đổi số toàn diện</b> trong mọi lĩnh vực.<br>• Quản lý, thúc đẩy <b>tài sản số, tiền kỹ thuật số</b> lành mạnh.<br>• Phát triển <b>trợ lý ảo</b> cho doanh nghiệp và người dân; ứng dụng AI trong quản lý nhà nước.<br>• Doanh nghiệp là trung tâm; viện nghiên cứu và trường đại học là chủ thể đổi mới sáng tạo.<br>• Hệ sinh thái khởi nghiệp sáng tạo gắn kết nghiên cứu, trường đại học và doanh nghiệp.<br>• Chỉ tiêu: kinh tế số đạt <b>~30% GDP</b> vào 2030; TFP trên <b>55%</b>.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Kết quả phát triển văn hoá, xã hội, con người (HDI, hạnh phúc, y tế)”,
+    keywords: [“hdi”, “hạnh phúc”, “bảo hiểm y tế”, “tuổi thọ”, “hộ nghèo”, “nhà ở xã hội”, “trợ giúp xã hội”],
+    synonyms: [“phúc lợi xã hội”, “an sinh”, “chỉ số phát triển con người”, “xóa nghèo”, “chăm sóc sức khỏe”, “bhyt”, “bảo trợ”, “1 triệu căn hộ”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, các chỉ số văn hoá, xã hội, con người đạt kết quả nổi bật:<br><br>• <b>Chỉ số phát triển con người (HDI):</b> <b>0,766 điểm</b>, tăng 14 bậc, thuộc nhóm nước phát triển con người cao.<br>• <b>Chỉ số hạnh phúc:</b> Xếp thứ <b>46/143 quốc gia</b> năm 2025 (tăng 33 bậc so với 2021).<br>• <b>Tỉ lệ bao phủ BHYT:</b> Tăng từ 90,9% (2020) lên <b>95,2%</b> (2025).<br>• <b>Tuổi thọ trung bình:</b> <b>74,8 năm</b> (2025); số năm sống khoẻ ~67 năm.<br>• <b>Tỉ lệ hộ nghèo đa chiều:</b> Giảm từ 4,2% (2022) xuống còn <b>1,3%</b> (2025).<br>• Người hưởng trợ giúp xã hội thường xuyên: trên <b>3,5 triệu người</b>.<br>• Đến tháng 9/2025: hoàn thành xoá nhà tạm, nhà dột nát trên cả nước.<br>• Đang triển khai Đề án xây dựng ít nhất <b>1 triệu căn hộ nhà ở xã hội</b>.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Quốc phòng, an ninh, bảo vệ chủ quyền lãnh thổ”,
+    keywords: [“quốc phòng”, “an ninh”, “biển đảo”, “chủ quyền”, “quân đội”, “công an”, “lực lượng vũ trang”],
+    synonyms: [“bảo vệ tổ quốc”, “chiến đấu”, “biên giới”, “biển đông”, “lưỡng dụng”, “hiện đại hóa quân sự”, “an ninh quốc gia”, “an ninh mạng”, “an ninh lương thực”, “an ninh năng lượng”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, nhiệm vụ quốc phòng, an ninh được xác định:<br><br>• Bảo vệ vững chắc: <b>an ninh quốc gia, an ninh con người, an ninh kinh tế-tài chính, an ninh mạng-dữ liệu, an ninh lương thực, an ninh năng lượng, an ninh nguồn nước</b>.<br>• <b>Lần đầu tiên</b> bảo vệ chủ quyền số quốc gia trên không gian mạng.<br>• Xây dựng <b>Quân đội nhân dân, Công an nhân dân</b> cách mạng, chính quy, tinh nhuệ, hiện đại.<br>• Tổ chức Công an nhân dân theo hướng <b>\”Bộ tinh, tỉnh toàn diện, xã vững mạnh, bám cơ sở\”</b>.<br>• Đẩy mạnh phát triển <b>công nghiệp quốc phòng, công nghiệp an ninh</b> tự chủ, lưỡng dụng, hiện đại.<br>• Giữ vững phẩm chất <b>\”Bộ đội Cụ Hồ\”</b> và truyền thống <b>\”Công an nhân dân vì nước quên thân, vì dân phục vụ\”</b>.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Đối ngoại, hội nhập quốc tế”,
+    keywords: [“đối ngoại”, “hội nhập”, “đối tác chiến lược toàn diện”, “ASEAN”, “ngoại giao”, “UNCLOS”, “biển đông”],
+    synonyms: [“quan hệ quốc tế”, “hợp tác quốc tế”, “ngoại giao kinh tế”, “ngoại giao công nghệ”, “liên hợp quốc”, “APEC”, “Mê Công”, “tự do thương mại”, “hiệp định FTA”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, đường lối đối ngoại được xác định:<br><br>• <b>Độc lập, tự chủ, hoà bình, hữu nghị, hợp tác và phát triển, đa phương hoá, đa dạng hoá</b>.<br>• Việt Nam là <b>bạn, là đối tác tin cậy, là thành viên tích cực, có trách nhiệm</b> của cộng đồng quốc tế.<br>• Kiên quyết bảo vệ chủ quyền biển đảo theo <b>luật pháp quốc tế và UNCLOS 1982</b>.<br>• Triển khai đồng bộ 3 trụ cột: <b>Đối ngoại đảng, ngoại giao nhà nước, đối ngoại nhân dân</b>.<br>• Đẩy mạnh <b>ngoại giao kinh tế, ngoại giao công nghệ</b> phục vụ phát triển.<br>• Chủ động, tích cực trong <b>ASEAN, Liên hợp quốc, APEC, hợp tác tiểu vùng Mê Công</b>.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — 6 nhiệm vụ trọng tâm và 3 đột phá chiến lược”,
+    keywords: [“6 nhiệm vụ trọng tâm”, “3 đột phá chiến lược”, “nhiệm vụ trọng tâm”, “đột phá chiến lược”],
+    synonyms: [“ưu tiên hàng đầu”, “trọng tâm đại hội”, “then chốt”, “nhiệm vụ cấp bách”, “trọng điểm”, “tập trung lãnh đạo”, “chiến lược phát triển”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, <b>6 nhiệm vụ trọng tâm</b>:<br>1. Xây dựng đồng bộ <b>thể chế phát triển</b>, tháo gỡ nút thắt, điểm nghẽn.<br>2. Đẩy mạnh <b>xây dựng, chỉnh đốn Đảng</b>; đổi mới công tác cán bộ; PCTN.<br>3. Phát triển <b>nền kinh tế thị trường XHCN</b>; lấy KH&CN, chuyển đổi số làm động lực.<br>4. Triển khai đột phá <b>KH&CN, ĐMST</b> — ưu tiên chip bán dẫn, AI; đào tạo nhân lực CLC.<br>5. Phát triển <b>nguồn nhân lực, văn hoá</b>; đảm bảo an sinh, an ninh, an toàn, an dân.<br>6. Xây dựng <b>Quân đội, Công an cách mạng</b>, chính quy, tinh nhuệ, hiện đại.<br><br><b>3 đột phá chiến lược</b>:<br>1. <b>Thể chế phát triển</b> — hoàn thiện đồng bộ thể chế, phân cấp phân quyền.<br>2. <b>Nguồn nhân lực chất lượng cao</b> — thu hút nhân tài, bảo vệ cán bộ dám làm.<br>3. <b>Kết cấu hạ tầng</b> — giao thông đa phương thức, hạ tầng số, hạ tầng xanh.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Bài học kinh nghiệm 40 năm đổi mới”,
+    keywords: [“bài học”, “40 năm”, “đổi mới”, “kinh nghiệm”, “lý luận đổi mới”],
+    synonyms: [“tổng kết”, “lịch sử đổi mới”, “từ thực tiễn”, “rút ra bài học”, “5 bài học”, “bài học lịch sử”, “cương lĩnh”, “3 trụ cột”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, <b>5 bài học kinh nghiệm</b> sau 40 năm đổi mới (1986–2026):<br><br><b>Thứ nhất:</b> Kiên định, vận dụng và phát triển sáng tạo chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh; kiên định mục tiêu độc lập dân tộc và CNXH.<br><b>Thứ hai:</b> Giữ vững và tăng cường vai trò lãnh đạo, cầm quyền và sức chiến đấu của Đảng.<br><b>Thứ ba:</b> Quán triệt quan điểm <b>\”Dân là gốc\”</b> — kiên trì <b>\”dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng\”</b>.<br><b>Thứ tư:</b> Bám sát thực tiễn, phản ứng chính sách chủ động, linh hoạt; phân cấp, phân quyền rõ người, rõ việc.<br><b>Thứ năm:</b> Không ngừng đổi mới tư duy chiến lược; kết hợp tổng kết thực tiễn với nghiên cứu lý luận.<br><br>Mô hình CNXH Việt Nam với <b>3 trụ cột</b>: (1) Kinh tế thị trường định hướng XHCN; (2) Nhà nước pháp quyền XHCN; (3) Nền dân chủ XHCN.”
+  },
+
+  {
+    topic: “Báo cáo chính trị Đại hội XIV — Mô hình tăng trưởng mới, công nghiệp hoá, hiện đại hoá”,
+    keywords: [“mô hình tăng trưởng”, “kinh tế tư nhân”, “kinh tế nhà nước”, “FDI”, “kinh tế tuần hoàn”, “công nghiệp hoá”],
+    synonyms: [“cực tăng trưởng”, “hành lang kinh tế”, “đặc khu”, “tập đoàn tư nhân”, “công nghiệp bán dẫn”, “chip”, “robot”, “năng lượng tái tạo”, “kinh tế xanh”],
+    source: “Báo cáo chính trị BCH TW Đảng khoá XIII tại Đại hội XIV (bao_cao_chinh_tri_dai_hoi_XIV.md)”,
+    content: “Theo <b>Báo cáo chính trị tại Đại hội XIV</b>, mô hình tăng trưởng mới xác định:<br><br>• Lấy <b>khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số</b> làm động lực chính.<br>• Trọng tâm là <b>kinh tế dữ liệu, kinh tế số, kinh tế xanh, kinh tế tuần hoàn</b>.<br>• Ưu tiên công nghiệp mới nổi: <b>chip bán dẫn, robot, AI, vật liệu tiên tiến, năng lượng tái tạo</b>.<br>• <b>Kinh tế nhà nước</b> giữ vai trò chủ đạo trong bảo đảm ổn định vĩ mô.<br>• <b>Kinh tế tư nhân</b> là <b>một động lực quan trọng nhất</b> của nền kinh tế — xây dựng tập đoàn tư nhân ngang tầm khu vực.<br>• Thu hút <b>FDI có chọn lọc</b>: tập trung công nghiệp công nghệ cao, phát thải thấp.<br>• Hình thành các <b>cực tăng trưởng mạnh, vùng kinh tế trọng điểm, đặc khu kinh tế thế hệ mới</b>.”
+  },
+
+  // ============================================================
+  // BÁO CÁO TỔNG KẾT 15 NĂM THI HÀNH ĐIỀU LỆ ĐẢNG (2011–2025)
+  // ============================================================
+
+  {
+    topic: “Điều lệ Đảng — Tổng quan thi hành và số liệu đảng viên 15 năm (2011–2025)”,
+    keywords: [“điều lệ đảng”, “5.622.463”, “đảng viên”, “kết nạp”, “2.673.566”, “15 năm”, “thi hành”],
+    synonyms: [“số lượng đảng viên”, “phát triển đảng”, “thành viên”, “đảng viên mới”, “đại hội xi”, “đại hội xii”, “đại hội xiii”, “ba nhiệm kỳ”, “bộ phận lãnh đạo”],
+    source: “Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng 2011–2025 (bao_cao_tong_ket_15_nam.md)”,
+    content: “Theo <b>Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng (2011–2025)</b>:<br><br>• Đại hội XI (01/2011) thông qua Điều lệ Đảng (bổ sung, sửa đổi); Đại hội XII và XIII giữ nguyên.<br>• <b>Tổng số đảng viên (31/8/2025): 5.622.463 người</b>.<br>• Kết nạp trong 3 nhiệm kỳ XI, XII, XIII: <b>2.673.566 đảng viên</b>.<br>• Cơ cấu mới kết nạp: <b>81,65%</b> là đoàn viên; <b>45,79%</b> là nữ; 8,81% là công nhân; 15,43% là nông dân; 5,02% học sinh sinh viên; <b>15,98%</b> là người dân tộc thiểu số.<br>• Trình độ học vấn: 2.698.401 đảng viên có bằng đại học/cao đẳng (tăng 122,86% so với 2010); 311.207 đảng viên từ thạc sĩ trở lên (tăng 400,65% so với 2010).<br>• Xoá tên: 106.228; khai trừ: 30.112; xin ra khỏi Đảng: 34.202 đảng viên.”
+  },
+
+  {
+    topic: “Điều lệ Đảng — Tổ chức cơ sở đảng, chi bộ, đảng bộ toàn quốc”,
+    keywords: [“tổ chức cơ sở đảng”, “chi bộ”, “50.090”, “đảng bộ”, “cơ sở”, “chi bộ trực thuộc”],
+    synonyms: [“chi bộ cơ sở”, “đảng bộ cơ sở”, “hạt nhân chính trị”, “cấp cơ sở”, “đảng bộ bộ phận”, “210.627”, “2.633”, “34 đảng bộ tỉnh”],
+    source: “Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng 2011–2025 (bao_cao_tong_ket_15_nam.md)”,
+    content: “Theo <b>Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng</b>, tính đến 31/8/2025:<br><br>• Toàn Đảng có <b>50.090 đảng bộ, chi bộ cơ sở</b> (trong đó 35.671 chi bộ cơ sở).<br>• <b>2.633 đảng bộ bộ phận</b> và <b>210.627 chi bộ trực thuộc</b>.<br>• <b>34 đảng bộ tỉnh, thành phố</b> trực thuộc Trung ương (từ 01/7/2025).<br>• Thành lập 4 đảng bộ trực thuộc TW: Đảng bộ các cơ quan Đảng TW; Đảng bộ Chính phủ; Đảng bộ Quốc hội; Đảng bộ Mặt trận Tổ quốc và các đoàn thể.<br>• Đảng bộ Quân đội: 4.299 tổ chức cơ sở đảng; 14.711 chi bộ trực thuộc.<br>• Đảng uỷ Công an TW: 3.321 đảng bộ, chi bộ công an xã, phường, đặc khu.”
+  },
+
+  {
+    topic: “Điều lệ Đảng — Kiểm tra, giám sát và kỷ luật đảng (3 nhiệm kỳ XI-XIII)”,
+    keywords: [“kỷ luật đảng”, “kiểm tra”, “giám sát”, “ủy ban kiểm tra”, “4.999”, “258.507”, “740.263”],
+    synonyms: [“thi hành kỷ luật”, “vi phạm”, “xử lý”, “khai trừ”, “cách chức”, “khiển trách”, “cảnh cáo”, “phòng chống tham nhũng trong đảng”, “3.676.137”],
+    source: “Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng 2011–2025 (bao_cao_tong_ket_15_nam.md)”,
+    content: “Theo <b>Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng</b>, công tác kiểm tra, giám sát đạt kết quả:<br><br>• Các cấp uỷ đã kiểm tra <b>740.263 tổ chức đảng</b> và <b>3.676.137 đảng viên</b>.<br>• Từ năm 2016 đến 6/2024: ban hành <b>183.353 văn bản</b> cụ thể hoá Điều lệ Đảng.<br>• Trong 3 nhiệm kỳ XI, XII, XIII: thi hành kỷ luật <b>4.999 tổ chức đảng</b> và <b>258.507 đảng viên</b>.<br>• Uỷ ban kiểm tra các cấp thi hành kỷ luật: 660 tổ chức đảng và 59.200 đảng viên (trong đó 20.524 cấp uỷ viên, chiếm 35%).<br>• Cấp uỷ các cấp đã giải tán 3 tổ chức đảng.<br>• Thời hiệu kỷ luật Đảng và hành chính chưa đồng bộ (khiển trách: Đảng 5 năm, hành chính 2 năm; cảnh cáo: Đảng 10 năm, hành chính 5 năm) — là nội dung cần sửa đổi.”
+  },
+
+  {
+    topic: “Điều lệ Đảng — Định hướng bổ sung, sửa đổi trình Đại hội XV năm 2030”,
+    keywords: [“sửa đổi điều lệ”, “bổ sung điều lệ”, “đại hội xv”, “2030”, “cương lĩnh”, “hiến pháp”, “định hướng”],
+    synonyms: [“cập nhật điều lệ”, “điều chỉnh điều lệ”, “hoàn thiện”, “nghiên cứu sửa đổi”, “điều 7”, “chương iv”, “chương v”, “chương vii”],
+    source: “Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng 2011–2025 (bao_cao_tong_ket_15_nam.md)”,
+    content: “Theo <b>Báo cáo tổng kết 15 năm thi hành Điều lệ Đảng</b>, định hướng sửa đổi được xác định:<br><br>• Giao <b>BCH TW Đảng khoá XIV</b> lãnh đạo nghiên cứu, tổng kết thực tiễn để đề xuất sửa đổi Điều lệ Đảng và Cương lĩnh Chính trị trình <b>Đại hội XV</b> vào dịp 100 năm thành lập Đảng (1930–2030).<br>• Đồng bộ với sửa đổi <b>Cương lĩnh chính trị</b> và <b>Hiến pháp năm 2013</b>.<br>• Các nội dung ưu tiên nghiên cứu sửa đổi: <b>Điều 7</b> (miễn sinh hoạt đảng); <b>Chương IV</b> (cơ quan lãnh đạo Đảng ở địa phương); <b>Chương V</b> (tổ chức cơ sở đảng); <b>Chương VII</b> (kiểm tra, giám sát); <b>Chương VIII</b> (thẩm quyền kỷ luật); <b>Chương IX</b> (Đảng lãnh đạo Nhà nước, Mặt trận Tổ quốc).<br>• Nguyên tắc: Điều lệ Đảng <b>không nên quy định quá chi tiết</b>; giữ vững tính nguyên tắc, hệ thống, đồng bộ.”
   }
 ];
 
