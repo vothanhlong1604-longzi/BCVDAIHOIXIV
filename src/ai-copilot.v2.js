@@ -913,6 +913,7 @@ ${query}`;
         return {
           answerId: "core_fact_nq71",
           directAnswer: `Báo cáo đồng chí, theo <b>${nq71.source}</b> (ký bởi ${nq71.kyBoiThư}):<br>
+          <br><b>Nghị quyết số 71-NQ/TW của Bộ Chính trị ban hành ngày 22/8/2025 tập trung vào chủ đề đột phá phát triển giáo dục và đào tạo.</b><br>
 <br><b>Ngân sách nhà nước cho giáo dục:</b><br>
 • Tối thiểu <b>20% tổng chi NSNN</b> dành cho GD&ĐT.<br>
 • Trong đó: chi đầu tư ít nhất <b>5% NSNN</b>; chi giáo dục đại học ít nhất <b>3% NSNN</b>.<br>
