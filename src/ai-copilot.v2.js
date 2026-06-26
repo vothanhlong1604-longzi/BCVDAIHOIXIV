@@ -912,9 +912,7 @@ ${query}`;
       if (nq71 && isNQ71) {
         return {
           answerId: "core_fact_nq71",
-          directAnswer: `Báo cáo đồng chí, theo <b>${nq71.source}</b> (ký bởi ${nq71.kyBoiThư}):<br>
-          <br><b>Nghị quyết số 71-NQ/TW của Bộ Chính trị ban hành ngày 22/8/2025 tập trung vào chủ đề đột phá phát triển giáo dục và đào tạo.</b><br>
-<br><b>Ngân sách nhà nước cho giáo dục:</b><br>
+                    directAnswer: `Báo cáo đồng chí, <b>Nghị quyết 71-NQ/TW ngày 22/8/2025 của Bộ Chính trị</b> (ký bởi Tổng Bí thư Tô Lâm). Nghị quyết xác định: <b>giáo dục và đào tạo là đột phá chiến lược</b>, cùng với khoa học, công nghệ và đổi mới sáng tạo trở thành động lực phát triển đất nước trong giai đoạn mới. Nghị quyết được ban hành nhằm tạo chuyển biến căn bản, toàn diện và hiện đại hóa nền giáo dục Việt Nam.<br>
 • Tối thiểu <b>20% tổng chi NSNN</b> dành cho GD&ĐT.<br>
 • Trong đó: chi đầu tư ít nhất <b>5% NSNN</b>; chi giáo dục đại học ít nhất <b>3% NSNN</b>.<br>
 <br><b>Phụ cấp nhà giáo:</b><br>
